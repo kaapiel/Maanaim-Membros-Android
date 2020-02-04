@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sobre">Sobre</string>
+    <string name="mana">Maná da semana</string>
+    <string name="mural">Mural de Notícias</string>
+    <string name="sugestoes">Sugestões</string>
+    <string name="erro_instalar_biblia">Não foi possível instalar a bíblia. Tente novamente mais tarde.</string>
+    <string name="install_bible">Instalação da bíblia</string>
+    <string name="biblia_ja_instalada">Você ja tem a bíblia instalada em seu dispositivo</string>
+</resources>

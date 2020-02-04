@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/mapp_radio_verde">
+
+    <TextView
+        android:id="@+id/textRadio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Maanaim Gospel Radio"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FF4000"
+        tools:ignore="HardcodedText" 
+        android:textSize="30sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <SeekBar
+        android:id="@+id/barVolume"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/volumeRadio"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/botaoPlayStop"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:text=" "
+        tools:ignore="HardcodedText"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textOnOffRadio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OFFLINE"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FF0000"
+        android:textSize="70sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textTocando"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clique no play para obter dados do audio..."
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#40FF00"
+        android:textSize="12sp"
+        tools:ignore="HardcodedText"
+        android:layout_above="@+id/barVolume"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/volumeRadio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Volume"
+        android:textColor="#40FF00"
+        tools:ignore="HardcodedText"
+        android:layout_above="@+id/textOnOffRadio"
+        android:layout_toRightOf="@+id/textOnOffRadio"
+        android:layout_toEndOf="@+id/textOnOffRadio" />
+
+</RelativeLayout>

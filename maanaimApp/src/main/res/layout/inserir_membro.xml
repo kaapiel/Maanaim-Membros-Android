@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:fillViewport="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="1200dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="*Novo Membro"
+            android:id="@+id/textView3"
+            android:layout_marginLeft="38dp"
+            android:layout_marginStart="38dp"
+            android:layout_alignTop="@+id/imageViewFotoNovoMembro"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageViewFotoNovoMembro"
+            android:src="@drawable/ic_semfoto"
+            android:layout_marginRight="38dp"
+            android:layout_marginEnd="38dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="31dp"
+            android:layout_toEndOf="@+id/textView3"
+            android:layout_toRightOf="@+id/textView3" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextNomeNovoMembro"
+            android:layout_marginTop="22dp"
+            android:layout_below="@+id/imageViewFotoNovoMembro"
+            android:layout_alignLeft="@+id/textView3"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_alignRight="@+id/imageViewFotoNovoMembro"
+            android:layout_alignEnd="@+id/imageViewFotoNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Nome completo*"
+            android:id="@+id/textView4"
+            android:layout_below="@+id/imageViewFotoNovoMembro"
+            android:layout_alignLeft="@+id/editTextNomeNovoMembro"
+            android:layout_alignStart="@+id/editTextNomeNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Apelido*"
+            android:id="@+id/textView6"
+            android:layout_below="@+id/editTextNomeNovoMembro"
+            android:layout_alignLeft="@+id/editTextNomeNovoMembro"
+            android:layout_alignStart="@+id/editTextNomeNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextApelidoNovoMembro"
+            android:layout_below="@+id/textView6"
+            android:layout_alignLeft="@+id/textView6"
+            android:layout_alignStart="@+id/textView6"
+            android:layout_toStartOf="@+id/textView16"
+            android:layout_toLeftOf="@+id/textView16" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="RG"
+            android:id="@+id/textView9"
+            android:layout_below="@+id/editTextApelidoNovoMembro"
+            android:layout_alignLeft="@+id/editTextApelidoNovoMembro"
+            android:layout_alignStart="@+id/editTextApelidoNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextRGNovoMembro"
+            android:layout_below="@+id/textView9"
+            android:layout_alignLeft="@+id/textView9"
+            android:layout_alignStart="@+id/textView9"
+            android:layout_alignRight="@+id/spinnerSexoNovoMembro"
+            android:layout_alignEnd="@+id/spinnerSexoNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="CPF"
+            android:id="@+id/textView10"
+            android:layout_below="@+id/editTextRGNovoMembro"
+            android:layout_alignLeft="@+id/editTextRGNovoMembro"
+            android:layout_alignStart="@+id/editTextRGNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextCPFNovoMembro"
+            android:layout_below="@+id/textView10"
+            android:layout_alignLeft="@+id/textView10"
+            android:layout_alignStart="@+id/textView10"
+            android:layout_alignRight="@+id/editTextRGNovoMembro"
+            android:layout_alignEnd="@+id/editTextRGNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Batizado?"
+            android:id="@+id/textView11"
+            android:layout_below="@+id/editTextCPFNovoMembro"
+            android:layout_alignLeft="@+id/textView6"
+            android:layout_alignStart="@+id/textView6" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Telefone"
+            android:id="@+id/textView13"
+            android:layout_alignLeft="@+id/editTextNomeNovoMembro"
+            android:layout_alignStart="@+id/editTextNomeNovoMembro"
+            android:layout_below="@+id/editTextComplNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:id="@+id/editTextTelefoneNovoMembro"
+            android:layout_below="@+id/textView13"
+            android:layout_alignLeft="@+id/editTextNomeNovoMembro"
+            android:layout_alignStart="@+id/editTextNomeNovoMembro"
+            android:layout_alignRight="@+id/editTextNomeNovoMembro"
+            android:layout_alignEnd="@+id/editTextNomeNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Celular"
+            android:id="@+id/textView14"
+            android:layout_below="@+id/editTextTelefoneNovoMembro"
+            android:layout_alignLeft="@+id/editTextApelidoNovoMembro"
+            android:layout_alignStart="@+id/editTextApelidoNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="phone"
+            android:ems="10"
+            android:id="@+id/editTextCelularNovoMembro"
+            android:layout_below="@+id/textView14"
+            android:layout_alignLeft="@+id/editTextApelidoNovoMembro"
+            android:layout_alignStart="@+id/editTextApelidoNovoMembro"
+            android:layout_alignRight="@+id/editTextTelefoneNovoMembro"
+            android:layout_alignEnd="@+id/editTextTelefoneNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Data de nascimento*"
+            android:id="@+id/textView15"
+            android:layout_below="@+id/editTextCelularNovoMembro"
+            android:layout_alignLeft="@+id/editTextRGNovoMembro"
+            android:layout_alignStart="@+id/editTextRGNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="date"
+            android:ems="10"
+            android:focusable="true"
+            android:id="@+id/editTextDataNascNovoMembro"
+            android:layout_below="@+id/textView15"
+            android:layout_alignLeft="@+id/editTextRGNovoMembro"
+            android:layout_alignStart="@+id/editTextRGNovoMembro"
+            android:layout_alignRight="@+id/editTextCelularNovoMembro"
+            android:layout_alignEnd="@+id/editTextCelularNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Sexo*"
+            android:id="@+id/textView16"
+            android:layout_above="@+id/editTextApelidoNovoMembro"
+            android:layout_alignLeft="@+id/imageViewFotoNovoMembro"
+            android:layout_alignStart="@+id/imageViewFotoNovoMembro" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerSexoNovoMembro"
+            android:spinnerMode="dropdown"
+            android:layout_below="@+id/textView16"
+            android:layout_above="@+id/textView9"
+            android:layout_alignRight="@+id/editTextNomeNovoMembro"
+            android:layout_alignEnd="@+id/editTextNomeNovoMembro"
+            android:layout_toEndOf="@+id/editTextApelidoNovoMembro"
+            android:layout_toRightOf="@+id/editTextApelidoNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="CEP*"
+            android:id="@+id/textView17"
+            android:layout_below="@+id/editTextDataBatismoNovoMembro"
+            android:layout_alignRight="@+id/textView18"
+            android:layout_alignEnd="@+id/textView18" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="number"
+            android:ems="10"
+            android:id="@+id/editTextCEPNovoMembro"
+            android:layout_below="@+id/textView17"
+            android:layout_alignLeft="@+id/textView11"
+            android:layout_alignStart="@+id/textView11" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CEP>"
+            android:id="@+id/botaoCepNovoMembro"
+            android:layout_alignTop="@+id/editTextCEPNovoMembro"
+            android:layout_toRightOf="@+id/editTextCEPNovoMembro"
+            android:layout_alignBottom="@+id/editTextCEPNovoMembro"
+            android:layout_alignRight="@+id/editTextCPFNovoMembro"
+            android:layout_alignEnd="@+id/editTextCPFNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Rua*"
+            android:id="@+id/textView18"
+            android:layout_below="@+id/editTextCEPNovoMembro"
+            android:layout_alignLeft="@+id/editTextCEPNovoMembro"
+            android:layout_alignStart="@+id/editTextCEPNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextRuaNovoMembro"
+            android:layout_below="@+id/textView18"
+            android:layout_alignLeft="@+id/textView18"
+            android:layout_alignStart="@+id/textView18"
+            android:layout_toLeftOf="@+id/botaoCepNovoMembro"
+            android:layout_toStartOf="@+id/botaoCepNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Bairro*"
+            android:id="@+id/textView19"
+            android:layout_below="@+id/editTextRuaNovoMembro"
+            android:layout_alignLeft="@+id/editTextRuaNovoMembro"
+            android:layout_alignStart="@+id/editTextRuaNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextBairroNovoMembro"
+            android:layout_below="@+id/textView19"
+            android:layout_alignLeft="@+id/textView19"
+            android:layout_alignStart="@+id/textView19"
+            android:layout_alignRight="@+id/imageViewFotoNovoMembro"
+            android:layout_alignEnd="@+id/imageViewFotoNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Cidade*"
+            android:id="@+id/textView20"
+            android:layout_below="@+id/editTextBairroNovoMembro"
+            android:layout_alignLeft="@+id/editTextBairroNovoMembro"
+            android:layout_alignStart="@+id/editTextBairroNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextCidadeNovoMembro"
+            android:layout_below="@+id/textView20"
+            android:layout_alignLeft="@+id/textView20"
+            android:layout_alignStart="@+id/textView20"
+            android:layout_alignRight="@+id/editTextBairroNovoMembro"
+            android:layout_alignEnd="@+id/editTextBairroNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Estado*"
+            android:id="@+id/textView21"
+            android:layout_below="@+id/editTextCidadeNovoMembro"
+            android:layout_alignLeft="@+id/editTextCidadeNovoMembro"
+            android:layout_alignStart="@+id/editTextCidadeNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextEstadoNovoMembro"
+            android:layout_below="@+id/textView21"
+            android:layout_alignLeft="@+id/textView21"
+            android:layout_alignStart="@+id/textView21"
+            android:layout_alignRight="@+id/editTextCidadeNovoMembro"
+            android:layout_alignEnd="@+id/editTextCidadeNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Num."
+            android:id="@+id/textView22"
+            android:layout_alignTop="@+id/textView18"
+            android:layout_toRightOf="@+id/editTextRuaNovoMembro"
+            android:layout_toEndOf="@+id/editTextRuaNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextNumCasaNovoMembro"
+            android:layout_alignBottom="@+id/editTextRuaNovoMembro"
+            android:layout_toRightOf="@+id/editTextRuaNovoMembro"
+            android:layout_alignRight="@+id/editTextBairroNovoMembro"
+            android:layout_alignEnd="@+id/editTextBairroNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Complemento do endereço"
+            android:id="@+id/textView23"
+            android:layout_below="@+id/editTextEstadoNovoMembro"
+            android:layout_alignLeft="@+id/editTextEstadoNovoMembro"
+            android:layout_alignStart="@+id/editTextEstadoNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTextComplNovoMembro"
+            android:layout_below="@+id/textView23"
+            android:layout_alignLeft="@+id/textView23"
+            android:layout_alignStart="@+id/textView23"
+            android:layout_alignRight="@+id/editTextEstadoNovoMembro"
+            android:layout_alignEnd="@+id/editTextEstadoNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="date"
+            android:ems="10"
+            android:id="@+id/editTextDataBatismoNovoMembro"
+            android:layout_below="@+id/textView11"
+            android:layout_toRightOf="@+id/textView3"
+            android:layout_alignRight="@+id/editTextCPFNovoMembro"
+            android:layout_alignEnd="@+id/editTextCPFNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="E-Mail"
+            android:id="@+id/textViewEmailNovoMembro"
+            android:layout_below="@+id/editTextDataNascNovoMembro"
+            android:layout_alignLeft="@+id/editTextDataNascNovoMembro"
+            android:layout_alignStart="@+id/editTextDataNascNovoMembro" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:ems="10"
+            android:id="@+id/editTextEmailNovoMembro"
+            android:layout_below="@+id/textViewEmailNovoMembro"
+            android:layout_alignLeft="@+id/textViewEmailNovoMembro"
+            android:layout_alignStart="@+id/textViewEmailNovoMembro"
+            android:layout_alignRight="@+id/editTextDataNascNovoMembro"
+            android:layout_alignEnd="@+id/editTextDataNascNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Célula*"
+            android:id="@+id/textView"
+            android:layout_below="@+id/editTextEmailNovoMembro"
+            android:layout_alignLeft="@+id/editTextEmailNovoMembro"
+            android:layout_alignStart="@+id/editTextEmailNovoMembro" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinnerCelulaNovoMembro"
+            android:layout_below="@+id/textView"
+            android:layout_alignLeft="@+id/textView17"
+            android:layout_alignStart="@+id/textView17"
+            android:layout_alignRight="@+id/editTextEmailNovoMembro"
+            android:layout_alignEnd="@+id/editTextEmailNovoMembro" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Criar"
+            android:id="@+id/buttonCriarNovoMembro"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="34dp"
+            android:layout_marginEnd="34dp"
+            android:layout_below="@+id/spinnerCelulaNovoMembro" />
+
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBoxBatizado"
+            android:checked="true"
+            android:layout_below="@+id/textView11"
+            android:layout_alignRight="@+id/textView11"
+            android:layout_alignEnd="@+id/textView11" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Data Batismo"
+            android:id="@+id/textView12"
+            android:layout_above="@+id/editTextDataBatismoNovoMembro"
+            android:layout_alignLeft="@+id/editTextDataBatismoNovoMembro"
+            android:layout_alignStart="@+id/editTextDataBatismoNovoMembro" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="Campos com * são obrigatórios"
+            android:id="@+id/textView24"
+            android:layout_alignBottom="@+id/buttonCriarNovoMembro"
+            android:layout_alignLeft="@+id/spinnerCelulaNovoMembro"
+            android:layout_alignStart="@+id/spinnerCelulaNovoMembro" />
+
+    </RelativeLayout>
+</ScrollView>

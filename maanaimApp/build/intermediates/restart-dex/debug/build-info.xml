@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="hdpi"
+    format="7"
+    timestamp="844399045220410"
+    token="-647973328014713634"
+    verifier="FIELD_REMOVED" >
+
+    <task
+        name="javac"
+        duration="3948" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="203" />
+    <task
+        name="verifier"
+        duration="65" />
+
+    <artifact
+        location="C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+
+    <build timestamp="837276115738945" >
+        <artifact
+            location="C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\outputs\apk\maanaimApp-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="844399045220410"
+        verifier="FIELD_REMOVED" >
+        <artifact
+            location="C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

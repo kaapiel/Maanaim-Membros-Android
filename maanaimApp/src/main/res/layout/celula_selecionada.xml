@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:id="@+id/scrollojt"
+android:fillViewport="true" >
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="116dp" >
+
+    <TextView
+        android:id="@+id/textViewLiderCelula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="Lider"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/OrangeRed" />
+
+    <ListView
+        android:id="@+id/listViewLideres"
+        android:layout_width="wrap_content"
+        android:layout_height="130dp"
+        android:layout_alignParentTop="true"
+        android:layout_below="@+id/textViewLiderCelula" >
+
+    </ListView>
+
+    <ListView
+        android:id="@+id/listViewMembrosCelula"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/listViewLideres" >
+
+    </ListView>
+
+    <TextView
+        android:id="@+id/textViewMembrosCelula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/listViewLideres"
+        android:layout_centerHorizontal="true"
+        android:text="Membros"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/OrangeRed" />
+
+</RelativeLayout>
+</ScrollView>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <EditText
+        android:id="@+id/editTextRUA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textViewSelecioneReuniao"
+        android:ems="10"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/botaoGerar"
+        style="@style/ButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:background="@drawable/button_states_orange"
+        android:text="Buscar CEP"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/editTextCEP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/botaoGerar"
+        android:layout_centerHorizontal="true"
+        android:ems="10"
+        android:inputType="numberSigned"
+        android:hint="06220-000" />
+
+    <TextView
+        android:id="@+id/textViewSelecioneReuniao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextCEP"
+        android:layout_centerHorizontal="true"
+        android:text="CEP apenas números"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <EditText
+        android:id="@+id/editTextBAIRRO"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_below="@+id/editTextRUA"
+        android:layout_alignRight="@+id/textObservEnd"
+        android:layout_alignEnd="@+id/textObservEnd">
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextCIDADE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_below="@+id/editTextRUA"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextESTADO"
+        android:layout_alignLeft="@+id/editTextESTADO"
+        android:layout_alignStart="@+id/editTextESTADO" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cidade"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextCIDADE"
+        android:layout_alignLeft="@+id/editTextCIDADE"
+        android:layout_alignStart="@+id/editTextCIDADE" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bairro"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextBAIRRO"
+        android:layout_alignLeft="@+id/editTextBAIRRO"
+        android:layout_alignStart="@+id/editTextBAIRRO" />
+
+    <EditText
+        android:id="@+id/editTextDescricao"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:ems="10"
+        android:layout_alignTop="@+id/editTextNUMERO"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toRightOf="@+id/editTextCIDADE"
+        android:layout_toEndOf="@+id/editTextCIDADE" />
+
+    <TextView
+        android:id="@+id/txtCelula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Número"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextESTADO"
+        android:layout_toRightOf="@+id/textView30"
+        android:layout_toEndOf="@+id/textView30" />
+
+    <TextView
+        android:id="@+id/textObservEnd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextDescricao"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <EditText
+        android:id="@+id/editTextNUMERO"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:layout_below="@+id/textView8"
+        android:layout_alignLeft="@+id/txtCelula"
+        android:layout_alignStart="@+id/txtCelula" />
+
+    <EditText
+        android:id="@+id/editTextESTADO"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:layout_alignTop="@+id/editTextNUMERO"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textPresencaMemb"
+        android:textSize="25dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Presença dos membros"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/textView27"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:id="@+id/editTextOferta"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:layout_below="@+id/textObservEnd"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/textView7"
+        android:layout_toRightOf="@+id/textView7"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Oferta"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextOferta"
+        android:layout_alignLeft="@+id/editTextOferta"
+        android:layout_alignStart="@+id/editTextOferta" />
+
+    <EditText
+        android:id="@+id/editTextVisitantes"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:layout_above="@+id/textView27"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/editTextESTADO"
+        android:layout_alignEnd="@+id/editTextESTADO"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/textView30"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Qtde. visitantes"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextVisitantes"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <EditText
+        android:id="@+id/editTextCriancas"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:layout_below="@+id/txtCelula"
+        android:layout_toLeftOf="@+id/textView32"
+        android:layout_alignLeft="@+id/editTextCEP"
+        android:layout_alignStart="@+id/editTextCEP"
+        android:inputType="number" />
+
+    <TextView
+        android:id="@+id/textView31"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Qtde. crianças"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:layout_below="@+id/editTextCriancas"
+        android:layout_alignRight="@+id/editTextCriancas"
+        android:layout_alignEnd="@+id/editTextCriancas" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Compl."
+        android:layout_alignTop="@+id/textObservEnd"
+        android:layout_alignLeft="@+id/editTextDescricao"
+        android:layout_alignStart="@+id/editTextDescricao" />
+
+</RelativeLayout>

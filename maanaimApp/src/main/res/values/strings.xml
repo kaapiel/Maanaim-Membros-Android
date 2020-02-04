@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    infosSplash
+    <string name="splash1">Encontre a célula mais próxima</string>
+    <string name="splash2">Fique por dentro dos eventos e notícias da Comunidade</string>
+    <string name="splash3">Leia a bíblia onde estiver com facilidade</string>
+    <string name="splash4">Assista as ministrações da Comunidade Batista Maanaim</string>
+    <string name="splash5">Bem-vindo ao Maanaim app !</string>
+
+    teste
+    <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: Lorem Ipsum</string>
+    <string name="anterior">Anterior</string>
+    <string name="proximo">Próximo</string>
+    <string name="finalizar">Finalizar</string>
+
+    nome app
+    <string name="app_name">Maanaim App</string>
+
+    mensagens/infos
+    <string name="campos_obrigatorios">Campos com * são obrigatórios!</string>
+    <string name="supervisor_alterar_membro_celula">Somente supervisores podem mover membros para outras células !</string>
+    <string name="propria_celula">Você só pode inserir novos membros em sua própria célula !</string>
+    <string name="delete_membro_success">Membro deletado com sucesso</string>
+    <string name="insert_membro_success">Membro inserido com sucesso</string>
+    <string name="update_membro_success">Membro atualizado com sucesso</string>
+    <string name="update_celula_success">Célula atualizada com sucesso</string>
+    <string name="deletando_membro">Aguarde, o membro está sendo deletado.</string>
+    <string name="inserindo_membro">Aguarde, o membro está sendo criado.</string>
+    <string name="alterando_membro">Aguarde, o membro está sendo alterado.</string>
+    <string name="alterando_celula">Aguarde, a célula está sendo alterada.</string>
+    <string name="obtendo_membro">Aguarde, o membro está sendo obtido do servidor.</string>
+    <string name="obtendo_celula">Aguarde, a célula está sendo obtida do servidor.</string>
+    <string name="deletar_membro_pergunta">Você tem certeza que deseja deletar membro do app ?</string>
+    <string name="inserir_membro_pergunta">Você tem certeza que deseja criar membro ?</string>
+    <string name="alterar_membro_pergunta">Você tem certeza que deseja alterar membro ?</string>
+    <string name="alterar_celula_pergunta">Você tem certeza que deseja alterar célula ?</string>
+    <string name="inserir_celula_pergunta">Você tem certeza que deseja criar célula ?</string>
+    <string name="deletar_celula_pergunta">Você tem certeza que deseja deletar célula ?</string>
+    <string name="ao_app">ao app das células !</string>
+    <string name="bem_vindo">Bem-vindo</string>
+    <string name="id_video">ZScw3gSvBS4</string>
+    <string name="titulo_video">Faça uma surpresa para Jesus. Pr. Gerson Rodrigues</string>
+    <string name="sugestao_pc">"Você também pode mandar sua sugestão pelo computador, através do e-mail </string>
+    <string name="email_admin">gabriel_aguido@hotmail.com</string>
+    <string name="buffer">Armazenando áudio na memória (Buffer) ...</string>
+    <string name="escolha_data_mana">Escolha a data do maná desejado</string>
+    <string name="certeza_sair_membro">Você tem certeza que deseja sair do aplicativo ?</string>
+    <string name="certeza_sair">"Visitante/membro, você tem certeza que deseja sair do aplicativo ?"</string>
+    <string name="certeza_excluir_celula">Você tem certeza que deseja excluir a célula selecionada ?</string>
+    <string name="sair_sistema">Sair do sistema</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="visualizar_maps">Visualizar as células no maps pode demorar dependendo do seu dispositivo. Você tem certeza disso ?</string>
+    <string name="celula_maps">Células no google maps</string>
+    <string name="voce_nao_internet">Você não está conectado a internet !</string>
+    <string name="carregando_cap">Carregando capítulo...</string>
+    <string name="selecione_o_membro">Selecione o Membro</string>
+    <string name="nao_tem_numero_sms"> não tem um numero para receber SMS.</string>
+    <string name="nao_tem_numero_ligacao"> não tem um numero para receber Ligações.</string>
+    <string name="nao_tem_numero_whats"> não tem um numero para receber mensagens via WhatsApp.</string>
+    <string name="whatsapp_nao_instalado">O WhatsApp não está instalado !</string>
+    <string name="baixe_android">Baixe o aplicativo para dispositivos Android!</string>
+    <string name="nao_tem_email"> não tem um endereço de e-mail cadastrado.</string>
+    <string name="mandar_email">Mandar e-mail</string>
+    <string name="enviar_email">Enviar e-mail...</string>
+    <string name="nao_ha_app_email">Não há nenhum aplicativo de e-mail instalado em seu dispositivo</string>
+    <string name="desculpe_visitante_opcao">Desculpe visitante, mas você não pode acessar esta opção</string>
+    <string name="entrando_sistema">Entrando no sistema...</string>
+    <string name="boas_vindas_visitante_membro">Bem-vindo visitante/membro ao app das células !</string>
+    <string name="nao_lider">Você não é o líder desta célula !</string>
+    <string name="nao_lider_membro">Você não é o líder deste membro !</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="app_atualizado">Aplicativo Atualizado !</string>
+    <string name="atualizando_sistma">Atualizando o sistema...</string>
+    <string name="atualizacao_sinc">Atualização/Sincronização de dados.</string>
+    <string name="conexao_internet">Conexão com a internet</string>
+    <string name="membro_visitante">Membro/Visitante</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Atualizar infos</string>
+    <string name="action_settings">Configurações</string>
+    <string name="manutencao">Manutenção de sistema</string>
+    <string name="selecao_atividades">Selecão de atividades da semana</string>
+    <string name="celula">Célula </string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="aguarde">Aguarde...</string>
+    <string name="acessar_site">Acesse o site Maanaim</string>
+    <string name="concluido">Concluído</string>
+    <string name="criacao">Criação </string>
+    <string name="regiao">Região</string>
+    <string name="aviso_internet">Atenção: é recomendado uma conexão wi-fi para esta operação. Para conexões 3g/4g esta operação pode demorar.</string>
+    <string name="ag_reuniao">"Relatório da célula"</string>
+    <string name="confirme_dados">Confirme os dados</string>
+    <string name="confirme_membros">São estes os membros da célula ?</string>
+    <string name="data">Data</string>
+    <string name="hora">Hora</string>
+    <string name="endereco">Endereço</string>
+    <string name="verifique_dados">Verifique os dados</string>
+    <string name="ag_reuniao_solicitacao">agendando reunião...</string>
+    <string name="ag_reuniao_sucesso">Reunião Agendada com sucesso !</string>
+    <string name="marque_presenca">Marque a presença dos membros.</string>
+    <string name="obter_reunioes">"Obtendo reuniões..."</string>
+    <string name="obtendo_ministracoes">"Obtendo vídeos do Youtube"</string>
+    <string name="agendar">Agendar</string>
+    <string name="associacao_membro_celula">Associando membros às células...</string>
+    <string name="membros_cadastrados">"Membros presentes cadastrados</string>
+    <string name="selecione_celula">Selecione a célula</string>
+    <string name="selecione_evento">Selecione um evento</string>
+
+
+    cep
+    <string name="proc_cep">"procurando CEP..."</string>
+    <string name="digite_cep">"Digite um CEP"</string>
+    <string name="cep_nao_encontrado">Cep não encontrado. Seu CEP é de São Paulo?</string>
+
+    mensagens biblia
+    <string name="cap">CAPíTULO </string>
+    <string name="escolha_livro_cap">Escolha um livro e um capítulo.</string>
+    <string name="info_instalacao_biblia">Instalar a bíblia não requer uma conexão com a internet, mas é necessário cerca de 5 minutos para instalá-la. Deseja instalar a bíblia versão Offline ?</string>
+    <string name="biblia_instalada">Bíblia instalada. Você poderá utilizá-la através do menu de opções da tela principal.</string>
+    <string name="versiculo_install">Instalando versículos de</string>
+    <string name="instalando">Instalando a bíblia...</string>
+    <string name="install_bible">Instalação da bíblia</string>
+    <string name="instalacao_da">Instalação da</string>
+    <string name="biblia_ja_instalada">Você ja tem a bíblia instalada em seu dispositivo</string>
+    <string name="escolha_versao">Escolha uma versão</string>
+    <string name="aviso_vers_arc">Você não tem a versão ARC instalada em seu dispositivo.</string>
+    <string name="aviso_vers_acf">Você não tem a versão ACF instalada em seu dispositivo.</string>
+    <string name="aviso_vers_ara">Você não tem a versão ARA instalada em seu dispositivo.</string>
+    <string name="aviso_vers_nvi">Você não tem a versão NVI instalada em seu dispositivo.</string>
+    <string name="aviso_vers_ntlh">Você não tem a versão NTLH instalada em seu dispositivo.</string>
+
+    pacotes
+    <string name="pacote_whatsapp">com.whatsapp</string>
+    <string name="pacote_parse">com.parse.Data</string>
+
+    versoes
+    <string name="versaoARA">BibliaARA</string>
+    <string name="versaoARC">BibliaARC</string>
+    <string name="versaoACF">BibliaACF</string>
+    <string name="versaoNVI">BibliaNVI</string>
+    <string name="versaoNTLH">BibliaNTLH</string>
+
+    palavras/nomes
+    <string name="usuario">Usuário</string>
+    <string name="Senha">Senha</string>
+    <string name="versao">Versão</string>
+    <string name="versao_minusculo">versao</string>
+    <string name="sim">sim</string>
+    <string name="nao">não</string>
+    <string name="ok">OK</string>
+    <string name="voltar">Voltar</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="ligar">Ligar</string>
+    <string name="mandar_sms">Mandar SMS</string>
+    <string name="sms">SMS</string>
+    <string name="aviso">Aviso</string>
+
+    menus
+    <string name="title_section1">Início</string>
+    <string name="radio">Maanaim Rádio</string>
+    <string name="title_section2">Relatório</string>
+    <string name="title_section3">Células</string>
+    <string name="title_section4">Membros</string>
+    <string name="title_section5">Maps</string>
+    <string name="facebook">Facebook</string>
+    <string name="action_exit">Sair</string>
+    <string name="biblia">Bíblia Maanaim</string>
+    <string name="youtube_maanaim">YouTube Maanaim</string>
+    <string name="Facebook_share">Compartilhar App</string>
+    <string name="presenca">Presença Célula</string>
+    <string name="sobre">Sobre</string>
+    <string name="mana">Maná da semana</string>
+    <string name="mural">Mural de Notícias</string>
+    <string name="sugestoes">Sugestões</string>
+
+    chaves/links
+    <string name="push_app_id">RrygdPWu7rpZIhppJfJirGAWHpi1eSZaosK06kiW</string>
+    <string name="push_client_key">nHvazHZVVpeVoLBXcH9moycPMZltsDOLpuCBGwfZ</string>
+    <string name="api_key">AIzaSyBpOQjEooPDV4gCwvSaG4cexud_FgaMb-s</string>
+    <string name="facebook_app_id">1573250786222998</string>
+    <string name="link_app">https://play.google.com/store/apps/details?id=br.com.igreja.cellapp</string>
+    <string name="letras_com_acento">ÄÅÁÂÀÃäáâàãÉÊËÈéêëèÍÎÏÌíîïìÖÓÔÒÕöóôòõÜÚÛüúûùÇç</string>
+    <string name="letras_sem_acento">AAAAAAaaaaaEEEEeeeeIIIIiiiiOOOOOoooooUUUuuuuCc</string>
+    <string name="regex">([a-zA-Z0-9\\.\\s\\;\\?\\õ\\é\\í\\ê\\ó\\ô\\ú\\á\\à\\É\\Í\\Ó\\Ú\\Ã\\Á\\À\\Ê\\Ô\\Õ\\Ç\\Â\\ã\\â\\,\\-\\ç\\!\\:\\_\\)\\(])+</string>
+
+    parametros
+    <string name="put_extra_celula_relacionada">celulaRelacionada</string>
+    <string name="put_extra_senha">senha</string>
+    <string name="put_extra_usuario">usuario</string>
+    <string name="put_extra_push">dadosBroadcastParse</string>
+    <string name="param_regiao">regiao</string>
+    <string name="param_nome">nome</string>
+    <string name="param_foto_evento">fotoEvento</string>
+    <string name="param_foto_membro">fotoMembro</string>
+    <string name="param_membro_clicado">membroClicado</string>
+    <string name="param_data_evento">dataEvento</string>
+    <string name="desc"> DESC</string>
+
+    cores
+    <string name="cor_azul">Azul</string>
+    <string name="cor_verde">Verde</string>
+    <string name="cor_amarela">Amarela</string>
+    <string name="cor_vermelha">Vermelha</string>
+    <string name="cor_branca">Branca</string>
+    <string name="cor_laranja">Laranja</string>
+
+    json
+    <string name="json_membro">membroAndroid</string>
+    <string name="json_celula">celulaAndroid</string>
+    <string name="json_usuario">usuarioAndroid</string>
+    <string name="json_lider">liderAndroid</string>
+    <string name="json_avisos">avisosAndroid</string>
+    <string name="accept">Accept</string>
+    <string name="application_json">application/json</string>
+    <string name="content_type">Content-type</string>
+    <string name="text_plain">text/plain</string>
+
+    erros
+    <string name="erro_delete_membro">Não foi possível deletar membro. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_obter_membro">Não foi possível obter membro do servidor. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_obter_celula">Não foi possível obter célula do servidor. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_insert_membro">Não foi possível inserir novo membro. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_alterar_membro">Não foi possível alterar membro. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_alterar_algum_membro">Não foi possível alterar algum dos membros. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_alterar_celula">Não foi possível alterar célula. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_mana">Não foi encontrado o maná nesta data !</string>
+    <string name="nao_possui_biblia">Você não possui a biblia instalada em seu dispositivo. Acesse a barra de menus para baixar a bíblia.</string>
+    <string name="erro_sem_conexao_site">Sem conexão com a Internet. Para visualizar o site da igreja, conecte-se a internet.</string>
+    <string name="erro_eventos_internet">Você não está conectado a internet. Conecte-se a internet para obter as noticias atualizadas.</string>
+    <string name="erro_conexao">Erro de conexão. Sua conexão com a internet está desativada ou o sinal de sua conexão está fraco ?</string>
+    <string name="primeiro_acesso_sem_internet">Sem conexão com a internet. Conecte-se para o primeiro acesso. O sistema será fechado dentro de alguns segundos"</string>
+    <string name="validacao_campos_vazios">Não podem haver campos vazios</string>
+    <string name="usuario_ou_senha_inv">Usuário ou senha inválidos.</string>
+    <string name="erro_conexao_banco">Não foi possível se conectar ao banco de dados local do dispositivo. Contate o Administrador do sistema.</string>
+    <string name="erro_servidor_internet">Não foi possível se conectar ao servidor. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_instalar_biblia">Não foi possível instalar a bíblia. Tente novamente mais tarde.</string>
+    <string name="erro_parse_cep">"Erro no parse do cep."</string>
+    <string name="erro_vinculacao">Seu usuário não está vinculado a ninguém. Solicite ao administrador que vincule seu usuário à um membro !</string>
+    <string name="erro_nao_lider">"Você não é o líder desta célula !"</string>
+    <string name="erro_ag_reuniao_campos">Não foi possível agendar a reunião. Os campos de endereço precisam estar todos preenchidos.</string>
+    <string name="erro_ag_internet">Não foi possível agendar a reunião. Verifique sua conexão com a internet ou tente novamente mais tarde.</string>
+    <string name="erro_obter_reunioes">Erro ao obter Reuniões do servidor.</string>
+    <string name="selecione_membro">Selecione ao menos um membro</string>
+    <string name="erro_associacao">Não foi possível associar os membros à célula. Verifique se há erros e tente novamente</string>
+    <string name="erro_inesperado">Erro inesperado</string>
+    <string name="erro_tente_novamente">Tente novamente !</string>
+
+    mensagens de integração
+    <string name="aplicando_noticias">Aplicando alterações de notícias e eventos no dispositivo</string>
+    <string name="aplicando_membros">Aplicando alterações de membros no dispositivo</string>
+    <string name="aplicando_lideres">Aplicando alterações de líderes no dispositivo</string>
+    <string name="aplicando_usuarios">Aplicando alterações de usuários no dispositivo</string>
+    <string name="aplicando_celulas">Aplicando alterações de células no dispositivo</string>
+    <string name="converter_noticias">Convertendo avisos/notícias recebidos da base de dados</string>
+    <string name="converter_membros">Convertendo membros recebidos da base de dados</string>
+    <string name="converter_lideres">Convertendo líderes recebidos da base de dados</string>
+    <string name="converter_usuarios">Convertendo usuários recebidos da base de dados</string>
+    <string name="converter_celulas">Convertendo células recebidos da base de dados</string>
+    <string name="configurar_noticias">Configurando avisos/notícias recebidas</string>
+    <string name="configurar_membros">Configurando membros recebidas</string>
+    <string name="configurar_lideres">Configurando líderes recebidas</string>
+    <string name="configurar_usuarios">Configurando usuarios recebidas</string>
+    <string name="configurar_celulas">Configurando células recebidas</string>
+    <string name="obter_noticias">Obtendo eventos e notícias</string>
+    <string name="obter_membros">Obtendo membros</string>
+    <string name="obter_lideres">Obtendo líderes</string>
+    <string name="obter_usuarios">Obtendo usuários</string>
+    <string name="obter_celulas">Obtendo células</string>
+
+    livros bíblia
+    <string name="livro">Livro</string>
+    <string name="genesis">Gênesis</string>
+    <string name="exodo">Êxodo</string>
+    <string name="levitico">Levítico</string>
+    <string name="numeros">Números</string>
+    <string name="deuteronomio">Deuteronômio</string>
+    <string name="josue">Josué</string>
+    <string name="juizes">Juízes</string>
+    <string name="rute">Rute</string>
+    <string name="i_samuel">I_Samuel</string>
+    <string name="ii_samuel">II_Samuel</string>
+    <string name="i_reis">I_Reis</string>
+    <string name="ii_reis">II_Reis</string>
+    <string name="i_cronicas">I_Crônicas</string>
+    <string name="ii_cronicas">II_Crônicas</string>
+    <string name="esdras">Esdras</string>
+    <string name="neemias">Neemias</string>
+    <string name="ester">Ester</string>
+    <string name="jo">Jó</string>
+    <string name="salmos">Salmos</string>
+    <string name="proverbios">Provérbios</string>
+    <string name="eclesiastes">Eclesiastes</string>
+    <string name="cantares">Cantares</string>
+    <string name="isaias">Isaías</string>
+    <string name="jeremias">Jeremias</string>
+    <string name="lamentacoes">Lamentações</string>
+    <string name="ezequiel">Ezequiel</string>
+    <string name="daniel">Daniel</string>
+    <string name="oseias">Oséias</string>
+    <string name="joel">Joel</string>
+    <string name="amos">Amós</string>
+    <string name="obadias">Obadias</string>
+    <string name="jonas">Jonas</string>
+    <string name="miqueias">Miquéias</string>
+    <string name="naum">Naum</string>
+    <string name="habacuque">Habacuque</string>
+    <string name="sofonias">Sofonias</string>
+    <string name="ageu">Ageu</string>
+    <string name="zacarias">Zacarias</string>
+    <string name="malaquias">Malaquias</string>
+    <string name="mateus">Mateus</string>
+    <string name="marcos">Marcos</string>
+    <string name="lucas">Lucas</string>
+    <string name="joao">João</string>
+    <string name="atos">Atos</string>
+    <string name="romanos">Romanos</string>
+    <string name="i_corintios">I_Coríntios</string>
+    <string name="ii_corintios">II_Coríntios</string>
+    <string name="galatas">Gálatas</string>
+    <string name="efesios">Efésios</string>
+    <string name="filipenses">Filipenses</string>
+    <string name="colossenses">Colossenses</string>
+    <string name="i_tessalonicenses">I_Tessalonicenses</string>
+    <string name="ii_tessalonicenses">II_Tessalonicenses</string>
+    <string name="i_timoteo">I_Timóteo</string>
+    <string name="ii_timoteo">II_Timóteo</string>
+    <string name="tito">Tito</string>
+    <string name="filemon">Filemon</string>
+    <string name="hebreus">Hebreus</string>
+    <string name="tiago">Tiago</string>
+    <string name="i_pedro">I_Pedro</string>
+    <string name="ii_pedro">II_Pedro</string>
+    <string name="i_joao">I_João</string>
+    <string name="ii_joao">II_João</string>
+    <string name="iii_joao">III_João</string>
+    <string name="judas">Judas</string>
+    <string name="apocalipse">Apocalipse</string>
+
+    mensagens inicio
+    <string name="culto_vitoria">Toda Quinta-feira: Culto da vitória - As 20:00Hrs</string>
+    <string name="tadel">Toda Terça-feira: TADEL - As 20:00Hrs</string>
+    <string name="ctl">Todo Domingo: CTL - As 8:00Hrs</string>
+    <string name="presenca_nunca_esqueca">Nunca esqueça de marcar a presença dos membros nas células, é com base nisso que são geradas todas as informações.</string>
+    <string name="ceia">Todo 3º Domingo do mês: Celebração da ceia do Senhor; No mesmo dia da ceia, não esqueça da nossa tonelada do Amor</string>
+    <string name="todo_tadel">As reuniões de regiões acontecem sempre ao término do TADEL. Não saia sem participar dela !</string>
+    <string name="programacao_igreja">Fique de olho na programação da igreja. Elas são apresentadas no telão nos cultos.</string>
+    <string name="alterar_reunioes">Para alterar ou deletar reuniões já agendadas, acessse o sistema web através do site http://maanaim-osasco.sytes.net/celula .Não é possível alterar reuniões pelo seu dispositivo.</string>
+    <string name="app_travar">Se o seu aplicativo travar, na mensagem que aparecer, clique em "informar", e em "detalhe", descreva o que aconteceu. Trabalharemos para que o app esteja em suas mãos na melhor forma possível !</string>
+    <string name="search">Digite o nome do membro...</string>
+    <string name="nao_ha_aniversariantes">Nao há aniversariantes neste mês</string>
+    <string name="aniversariantes">Aniversariantes do mês</string>
+    <string name="editar_celula">Editar Célula</string>
+    <string name="excluir_celula">Excluir Célula</string>
+    <string name="param_celula_clicada">celulaClicada</string>
+    <string name="rupervisores_regiao">Supervisores Região</string>
+
+
+</resources>
+
+<!--
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+
+    infosSplash
+    <string name="splash1">Find a cell near you</string>
+    <string name="splash2">Stay updated about news and events from the Comunidade</string>
+    <string name="splash3">Read the Holy Bible anywhere with facility</string>
+    <string name="splash4">Watch the preaching from Comunidade Batista Maanaim</string>
+    <string name="splash5">Welcome to Maanaim app !</string>
+
+    teste
+    <string name="title_template_step">Step <xliff:g id="step_number">%1$d</xliff:g>: Lorem Ipsum</string>
+    <string name="anterior">Previous</string>
+    <string name="proximo">Next</string>
+    <string name="finalizar">Finish</string>
+
+    nome app
+    <string name="app_name">Maanaim App</string>
+
+    mensagens/infos
+    <string name="search">Enter the name of the member...</string>
+    <string name="nao_ha_aniversariantes">There is no birthdays in this month</string>
+    <string name="aniversariantes">Birthdays of the month</string>
+    <string name="ao_app">to app of cells !</string>
+    <string name="bem_vindo">Welcome</string>
+    <string name="id_video">ZScw3gSvBS4</string>
+    <string name="titulo_video">Faça uma surpresa para Jesus. Pr. Gerson Rodrigues</string>
+    <string name="sugestao_pc">"You can send your sugestions from computer through e-mail </string>
+    <string name="email_admin">gabriel_aguido@hotmail.com</string>
+    <string name="buffer">Buffering...</string>
+    <string name="escolha_data_mana">Choose the date of wished manna</string>
+    <string name="certeza_sair_membro">Are you sure you want to exit from app ?</string>
+    <string name="certeza_sair">"Visitant/member, are you sure you want to exit from app ?"</string>
+    <string name="sair_sistema">Exit from app</string>
+    <string name="visualizar_maps">View cells on map may delay depending of your hardware mobile. Are you sure ?</string>
+    <string name="celula_maps">Cells on google maps</string>
+    <string name="voce_nao_internet">You are not connected to the internet !</string>
+    <string name="carregando_cap">Loading chapter...</string>
+    <string name="selecione_o_membro">Select the member</string>
+    <string name="nao_tem_numero_sms"> have not a phone number to receive SMS.</string>
+    <string name="nao_tem_numero_ligacao"> have not a phone number to receive Calls.</string>
+    <string name="nao_tem_numero_whats"> have not a phone number to receive messages via WhatsApp.</string>
+    <string name="whatsapp_nao_instalado">The WhatsApp app is not installed !</string>
+    <string name="baixe_android">Download the app to android devices!</string>
+    <string name="nao_tem_email"> have not an e-mail registered.</string>
+    <string name="mandar_email">Send e-mail</string>
+    <string name="enviar_email">Send e-mail...</string>
+    <string name="nao_ha_app_email">There is no e-mail app installed on your device</string>
+    <string name="desculpe_visitante_opcao">Sorry visitor, you can not access this option</string>
+    <string name="entrando_sistema">Entering on the app...</string>
+    <string name="boas_vindas_visitante_membro">Welcome visitant/member to the cells app !</string>
+    <string name="nao_lider">You are not the leader of this cell !</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="cancelar">Cancel</string>
+    <string name="app_atualizado">App updated !</string>
+    <string name="atualizando_sistma">Updating the informations from app...</string>
+    <string name="atualizacao_sinc">Update/Sync of data.</string>
+    <string name="conexao_internet">Conection with the internet</string>
+    <string name="membro_visitante">Member/Visitant</string>
+    <string name="compartilhar">Share</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Update infos</string>
+    <string name="action_settings">Configurations</string>
+    <string name="manutencao">Maintenance of the system</string>
+    <string name="selecao_atividades">Selection of activities of week</string>
+    <string name="celula">Cell </string>
+    <string name="whatsapp">Whatsapp</string>
+    <string name="aguarde">Please wait...</string>
+    <string name="acessar_site">Access the Maanaim site</string>
+    <string name="concluido">Completed</string>
+    <string name="criacao">Creation </string>
+    <string name="regiao">Region</string>
+    <string name="aviso_internet">Note: it is recomendes a wi-fi connection to this action. To 3g/4g connections, this operation can take more time.</string>
+    <string name="ag_reuniao">"Schedule a meeting"</string>
+    <string name="confirme_dados">Confirm data</string>
+    <string name="data">Date</string>
+    <string name="hora">Hour</string>
+    <string name="endereco">Adress</string>
+    <string name="verifique_dados">Verify data</string>
+    <string name="ag_reuniao_solicitacao">scheduling meeting...</string>
+    <string name="ag_reuniao_sucesso">Meeting scheduled with success !</string>
+    <string name="marque_presenca">Mark members presence.</string>
+    <string name="obter_reunioes">"Getting meeting..."</string>
+    <string name="obtendo_ministracoes">"Getting vídeos from Youtube"</string>
+    <string name="agendar">Schedule</string>
+    <string name="associacao_membro_celula">Associating memers to cell...</string>
+    <string name="membros_cadastrados">"Members presence registered</string>
+    <string name="selecione_celula">Select the cell</string>
+    <string name="selecione_evento">Select an event</string>
+
+
+    cep
+    <string name="proc_cep">"Searching CEP..."</string>
+    <string name="digite_cep">"Type a CEP"</string>
+    <string name="cep_nao_encontrado">Cep no found. Your CEP is from São Paulo?</string>
+
+    mensagens biblia
+    <string name="cap">CHAPTER </string>
+    <string name="escolha_livro_cap">Choose a book and a chapter.</string>
+    <string name="info_instalacao_biblia">Install the bible do not requires internet conection, but it takes about 5 minutes. Do you wish to install Offline Version Bible ?</string>
+    <string name="biblia_instalada">Bible installed. You can use through options menu on the main screen.</string>
+    <string name="versiculo_install">Installing verses of</string>
+    <string name="instalando">Installing the bible...</string>
+    <string name="install_bible">Instalation of the bible</string>
+    <string name="instalacao_da">Instalation of</string>
+    <string name="biblia_ja_instalada">You already have the bible installed on your device</string>
+    <string name="escolha_versao">Choose a version</string>
+    <string name="aviso_vers_arc">You have not the ARC version installed on your device.</string>
+    <string name="aviso_vers_acf">You have not the ACF version installed on your device.</string>
+    <string name="aviso_vers_ara">You have not the ARA version installed on your device.</string>
+    <string name="aviso_vers_nvi">You have not the NVI version installed on your device.</string>
+    <string name="aviso_vers_ntlh">You have not the NTLH version installed on your device.</string>
+
+    pacotes
+    <string name="pacote_whatsapp">com.whatsapp</string>
+    <string name="pacote_parse">com.parse.Data</string>
+
+    versoes
+    <string name="versaoARA">BibliaARA</string>
+    <string name="versaoARC">BibliaARC</string>
+    <string name="versaoACF">BibliaACF</string>
+    <string name="versaoNVI">BibliaNVI</string>
+    <string name="versaoNTLH">BibliaNTLH</string>
+
+    palavras/nomes
+    <string name="usuario">User</string>
+    <string name="Senha">Password</string>
+    <string name="versao">Version</string>
+    <string name="versao_minusculo">version</string>
+    <string name="sim">yes</string>
+    <string name="nao">no</string>
+    <string name="ok">OK</string>
+    <string name="voltar">Back</string>
+    <string name="email">E-mail</string>
+    <string name="telefone">Telephone</string>
+    <string name="ligar">Call</string>
+    <string name="mandar_sms">Send SMS</string>
+    <string name="sms">SMS</string>
+    <string name="aviso">News</string>
+
+    menus
+    <string name="title_section1">Start</string>
+    <string name="radio">Maanaim Radio</string>
+    <string name="title_section2">Meetings</string>
+    <string name="title_section3">Cells</string>
+    <string name="title_section4">Members</string>
+    <string name="title_section5">Maps</string>
+    <string name="facebook">Facebook</string>
+    <string name="action_exit">Exit</string>
+    <string name="biblia">Maanaim Bible</string>
+    <string name="youtube_maanaim">Maanaim YouTube</string>
+    <string name="Facebook_share">Share App</string>
+    <string name="presenca">Cell presences</string>
+    <string name="sobre">About</string>
+    <string name="mana">Manna of week</string>
+    <string name="mural">News Mural</string>
+    <string name="sugestoes">Sugestions</string>
+
+    chaves/links
+    <string name="push_app_id">RrygdPWu7rpZIhppJfJirGAWHpi1eSZaosK06kiW</string>
+    <string name="push_client_key">nHvazHZVVpeVoLBXcH9moycPMZltsDOLpuCBGwfZ</string>
+    <string name="api_key">AIzaSyBpOQjEooPDV4gCwvSaG4cexud_FgaMb-s</string>
+    <string name="facebook_app_id">1573250786222998</string>
+    <string name="link_app">https://play.google.com/store/apps/details?id=br.com.igreja.cellapp</string>
+    <string name="letras_com_acento">ÄÅÁÂÀÃäáâàãÉÊËÈéêëèÍÎÏÌíîïìÖÓÔÒÕöóôòõÜÚÛüúûùÇç</string>
+    <string name="letras_sem_acento">AAAAAAaaaaaEEEEeeeeIIIIiiiiOOOOOoooooUUUuuuuCc</string>
+    <string name="regex">([a-zA-Z0-9\\.\\s\\;\\?\\õ\\é\\í\\ê\\ó\\ô\\ú\\á\\à\\É\\Í\\Ó\\Ú\\Ã\\Á\\À\\Ê\\Ô\\Õ\\Ç\\Â\\ã\\â\\,\\-\\ç\\!\\:\\_\\)\\(])+</string>
+
+    parametros
+    <string name="put_extra_celula_relacionada">celulaRelacionada</string>
+    <string name="put_extra_senha">senha</string>
+    <string name="put_extra_usuario">usuario</string>
+    <string name="put_extra_push">dadosBroadcastParse</string>
+    <string name="param_regiao">regiao</string>
+    <string name="param_nome">nome</string>
+    <string name="param_foto_evento">fotoEvento</string>
+    <string name="param_foto_membro">fotoMembro</string>
+    <string name="param_membro_clicado">membroClicado</string>
+    <string name="param_data_evento">dataEvento</string>
+    <string name="desc"> DESC</string>
+
+    cores
+    <string name="cor_azul">Blue</string>
+    <string name="cor_verde">Green</string>
+    <string name="cor_amarela">Yellow</string>
+    <string name="cor_vermelha">Red</string>
+    <string name="cor_branca">White</string>
+    <string name="cor_laranja">Orange</string>
+
+    json
+    <string name="json_membro">membroAndroid</string>
+    <string name="json_celula">celulaAndroid</string>
+    <string name="json_usuario">usuarioAndroid</string>
+    <string name="json_lider">liderAndroid</string>
+    <string name="json_avisos">avisosAndroid</string>
+    <string name="accept">Accept</string>
+    <string name="application_json">application/json</string>
+    <string name="content_type">Content-type</string>
+    <string name="text_plain">text/plain</string>
+
+    erros
+    <string name="erro_mana">Can not find the manna on this date !</string>
+    <string name="nao_possui_biblia">You have not the bible installed on your device. Access the menu bar to Install the bible.</string>
+    <string name="erro_sem_conexao_site">No internet connections. To view the site of church, connect to the internet.</string>
+    <string name="erro_eventos_internet">You are not connected to the internet. Connect to the internet to get updated news.</string>
+    <string name="erro_conexao">Connection error. Is your internet connection active or the connection signal is weak ?</string>
+    <string name="primeiro_acesso_sem_internet">No internet connection. To the first sccess you need to be connected. The app will be closed in seconds"</string>
+    <string name="validacao_campos_vazios">Can be no empty fields</string>
+    <string name="usuario_ou_senha_inv">Invalid User or password.</string>
+    <string name="erro_conexao_banco">Impossible to connect to the local database. Contact the system administrator.</string>
+    <string name="erro_servidor_internet">Impossibel to connect to the server. Verify your connection try again later.</string>
+    <string name="erro_instalar_biblia">Impossibel to install bible. Try again later.</string>
+    <string name="erro_parse_cep">"Cep parser error."</string>
+    <string name="erro_vinculacao">Your user is not link to no one. Ask the administrator to link your user to a member !</string>
+    <string name="erro_nao_lider">"You are not the leader of this cell !"</string>
+    <string name="erro_ag_reuniao_campos">Impossible to schedule meeting. The Andress fields must be not null.</string>
+    <string name="erro_ag_internet">Impossible to schedule meeting. Verify your internet connection or try again later.</string>
+    <string name="erro_obter_reunioes">Error getting meetings from server.</string>
+    <string name="selecione_membro">Select one member at least</string>
+    <string name="erro_associacao">Impossible to associate members to the cell. Verify if there are errors and try again</string>
+    <string name="erro_inesperado">Unexpected error</string>
+    <string name="erro_tente_novamente">Try again !</string>
+
+    mensagens de integração
+    <string name="aplicando_noticias">Applying news/events changes on device</string>
+    <string name="aplicando_membros">Applying members changes on device</string>
+    <string name="aplicando_lideres">Applying leaders changes on device</string>
+    <string name="aplicando_usuarios">Applying users changes on device</string>
+    <string name="aplicando_celulas">Applying cells changes on device</string>
+    <string name="converter_noticias">Converting news/events received from data base</string>
+    <string name="converter_membros">Converting members received from data base</string>
+    <string name="converter_lideres">Converting leaders received from data base</string>
+    <string name="converter_usuarios">Converting users received from data base</string>
+    <string name="converter_celulas">Converting cells received from data base</string>
+    <string name="configurar_noticias">Setting news/events received</string>
+    <string name="configurar_membros">Setting members received</string>
+    <string name="configurar_lideres">Setting leaders received</string>
+    <string name="configurar_usuarios">Setting users received</string>
+    <string name="configurar_celulas">Setting cells received</string>
+    <string name="obter_noticias">Getting news and events</string>
+    <string name="obter_membros">Getting members</string>
+    <string name="obter_lideres">Getting leaders</string>
+    <string name="obter_usuarios">Getting users</string>
+    <string name="obter_celulas">Getting cells</string>
+
+    livros bíblia
+    <string name="livro">Book</string>
+    <string name="genesis">Genesis</string>
+    <string name="exodo">Exodus</string>
+    <string name="levitico">Leviticus</string>
+    <string name="numeros">Numbers</string>
+    <string name="deuteronomio">Deuteronomy</string>
+    <string name="josue">Joshua</string>
+    <string name="juizes">Judges</string>
+    <string name="rute">Ruth</string>
+    <string name="i_samuel">I_Samuel</string>
+    <string name="ii_samuel">II_Samuel</string>
+    <string name="i_reis">I_Kings</string>
+    <string name="ii_reis">II_Kings</string>
+    <string name="i_cronicas">I_Chronicles</string>
+    <string name="ii_cronicas">II_Chronicles</string>
+    <string name="esdras">Ezra</string>
+    <string name="neemias">Nehemiah</string>
+    <string name="ester">Esther</string>
+    <string name="jo">Job</string>
+    <string name="salmos">Psalms</string>
+    <string name="proverbios">Proverbs</string>
+    <string name="eclesiastes">Ecclesiastes</string>
+    <string name="cantares">Song of Solomon</string>
+    <string name="isaias">Isaiah</string>
+    <string name="jeremias">Jeremiah</string>
+    <string name="lamentacoes">Lamentations</string>
+    <string name="ezequiel">Ezekiel</string>
+    <string name="daniel">Daniel</string>
+    <string name="oseias">Hosea</string>
+    <string name="joel">Joel</string>
+    <string name="amos">Amos</string>
+    <string name="obadias">Obadiah</string>
+    <string name="jonas">Jonah</string>
+    <string name="miqueias">Micah</string>
+    <string name="naum">Nahum</string>
+    <string name="habacuque">Habakkuk</string>
+    <string name="sofonias">Zephaniah</string>
+    <string name="ageu">Haggai</string>
+    <string name="zacarias">Zechariah</string>
+    <string name="malaquias">Malachi</string>
+    <string name="mateus">Matthew</string>
+    <string name="marcos">Mark</string>
+    <string name="lucas">Luke</string>
+    <string name="joao">John</string>
+    <string name="atos">Acts</string>
+    <string name="romanos">Romans</string>
+    <string name="i_corintios">I_Corinthians</string>
+    <string name="ii_corintios">II_Corinthians</string>
+    <string name="galatas">Galatians</string>
+    <string name="efesios">Ephesians</string>
+    <string name="filipenses">Philippians</string>
+    <string name="colossenses">Colossians</string>
+    <string name="i_tessalonicenses">I_Thessalonians</string>
+    <string name="ii_tessalonicenses">II_Thessalonians</string>
+    <string name="i_timoteo">I_Timothy</string>
+    <string name="ii_timoteo">II_Timothy</string>
+    <string name="tito">Titus</string>
+    <string name="filemon">Philemon</string>
+    <string name="hebreus">Hebrew</string>
+    <string name="tiago">James</string>
+    <string name="i_pedro">I_Peter</string>
+    <string name="ii_pedro">II_Peter</string>
+    <string name="i_joao">I_John</string>
+    <string name="ii_joao">II_John</string>
+    <string name="iii_joao">III_John</string>
+    <string name="judas">Jude</string>
+    <string name="apocalipse">Revelation</string>
+
+    mensagens inicio
+    <string name="culto_vitoria">Every Thursday: Cult of victory - At 20:00Hrs</string>
+    <string name="tadel">Every Tuesday: TADEL - At 20:00Hrs</string>
+    <string name="ctl">Every Sunday: CTL - At 8:00Hrs</string>
+    <string name="presenca_nunca_esqueca">Never forget to mark the presence of members at cells. With this we can generate every information.</string>
+    <string name="ceia">Every 3th sunday of month: Supper celebration of the Lord; On the same day, do not forget our Loves ton</string>
+    <string name="todo_tadel">The regions meetings happens every after the TADEL. Do not leave us without participating !</string>
+    <string name="programacao_igreja">Keep your eyes on the church schedule. Every schedule is displayed on church screen.</string>
+    <string name="alterar_reunioes">To change or delete meetings already scheduled, access the web system through the site http://maanaim-osasco.sytes.net/celula .It is not possible to change meeting by your device.</string>
+    <string name="app_travar">If your app crashes, on the appeared message, click on "inform", and in "detail", describe what happens. We will work to app be in your hands with perfect condictions !</string>
+
+</resources>
+-->

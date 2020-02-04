@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\menu_membros.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\menu_membros.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\menu_celula_selecionada.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\menu_celula_selecionada.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\voltar_menu.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\voltar_menu.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\voltar_menu_celula.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\voltar_menu_celula.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\activity_screen_slide.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\activity_screen_slide.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\inicio.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\inicio.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\menu\\contextual_menu.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\menu\\contextual_menu.xml"
+    }
+]

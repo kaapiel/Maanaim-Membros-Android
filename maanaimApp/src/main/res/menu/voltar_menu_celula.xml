@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.TCC.cellapp.Inicio" >
+
+    <item
+        android:id="@+id/menuPrincipal"
+        android:title="Voltar ao Menu"
+        app:showAsAction="withText|ifRoom" tools:ignore="HardcodedText"/>
+    
+    <item
+        android:id="@+id/estatisticas"
+        android:title="Estatísticas das células"
+        app:showAsAction="withText|ifRoom" tools:ignore="HardcodedText"/>
+
+    <item
+        android:id="@+id/nova_celula"
+        android:title="Nova célula"
+        app:showAsAction="withText|ifRoom" tools:ignore="HardcodedText"/>
+
+</menu>

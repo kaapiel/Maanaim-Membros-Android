@@ -1,0 +1,958 @@
+[
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_computador.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_computador.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_bandeira_israel.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_bandeira_israel.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drawer_shadow.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_hamburguer.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_hamburguer.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_like_background_selected.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_relogio.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_relogio.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_states_orange.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\button_states_orange.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_familia.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_familia.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_poxa_vida.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_poxa_vida.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_dollar.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_dollar.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_pesquisar_direita.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_pesquisar_direita.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_splash_preto.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_splash_preto.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_semfoto.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_semfoto.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\reunioes.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\reunioes.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_seq_2.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_seq_2.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_anotacao.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_anotacao.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_bexiga.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_bexiga.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_email.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_email.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_espanto.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_espanto.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash3.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash3.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash11.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash11.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_convite.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_convite.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\shape.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_feliz.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_feliz.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash8.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash8.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_sorvete.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_sorvete.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_camera.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_camera.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo3.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo3.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_pergaminho.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_pergaminho.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_timido.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_timido.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo11.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo11.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_seta_direita.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_seta_direita.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_sem_graca.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_sem_graca.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_seta_esquerda.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_seta_esquerda.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_noel.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_noel.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_ok.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_ok.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo8.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo8.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_igreja.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_igreja.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_wp.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_wp.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_sol1.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_sol1.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_drawer.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_decepcao.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_decepcao.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash5.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash5.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_casal.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_casal.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_cadeado_aberto.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_cadeado_aberto.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_aff.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_aff.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\facebook.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_name.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_action_name.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_cafe.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_cafe.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_dinheiro.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_dinheiro.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_alto_falante.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_alto_falante.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_orange.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\button_orange.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_sol2.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_sol2.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading_thumbnail.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\loading_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash4.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash4.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_inverse_icon.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo10.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo10.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_like_background.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo6.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo6.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_blue_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_folhas.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_folhas.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo7.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo7.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_vinho.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_vinho.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_choro.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_choro.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_nao_joia.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_nao_joia.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ok_entendi.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ok_entendi.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-hdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash7.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash7.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_e_agora.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_e_agora.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_bravo.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_bravo.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\equalizador1.gif",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\equalizador1.gif"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_festa2.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_festa2.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_bola_fut.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_bola_fut.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_cadeado_fechado.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_cadeado_fechado.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_blue_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_grey_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_festa1.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_festa1.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_disket.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_disket.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_like_pressed.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\membros.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\membros.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_grey_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\presenca.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\presenca.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_atencao.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_atencao.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_oracao.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_oracao.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_senha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_action_senha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_game.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_game.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.3.0\\res\\drawable-hdpi\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sair.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\sair.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_picker_magnifier.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_grafico.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_grafico.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\foto_arredondada.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\foto_arredondada.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_seta_d_bca.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_seta_d_bca.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash6.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash6.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_casal_amor.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_casal_amor.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_coracao.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_coracao.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_close.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_close.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_triste.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_triste.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_clear.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_clear.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_lampada.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_lampada.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_seq_4.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_seq_4.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\celula.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\celula.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo2.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo2.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_fogo.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_fogo.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo4.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo4.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_radio_verde.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_radio_verde.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_ceia.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_ceia.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_menu.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\logo_menu.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_arrependido.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_arrependido.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_pesquisa_esquerda.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_pesquisa_esquerda.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_lua.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_lua.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rect_text_edit.xml",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\rect_text_edit.xml"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button_orange_pressed.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\button_orange_pressed.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_pedaco_bolo.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_pedaco_bolo.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash2.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash2.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_planeta.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_planeta.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_blue_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\stop.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_radio.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_radio.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_espanto_constrangido.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_espanto_constrangido.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_pao.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_pao.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash10.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\splash10.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_bandeira_africa.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_bandeira_africa.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_filmar.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_filmar.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_membro.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_action_membro.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_presente.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_presente.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_batata.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_batata.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_seta_e_bca.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_seta_e_bca.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_biblia.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_biblia.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_seq_1.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_seq_1.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_seq_3.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_seq_3.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_like_icon.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_button_grey_normal.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_bolo.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_bolo.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.3.0\\res\\drawable-hdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_gcim.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ic_action_gcim.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_alivio.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_alivio.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_alfinete.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_alfinete.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo1.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo1.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_logo.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_logo.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\MaanaimMembrosApp\\facebook\\unspecified\\res\\drawable-hdpi-v4\\com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\no_thumbnail.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\no_thumbnail.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_olhos.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_olhos.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_emotion_surpreso.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_emotion_surpreso.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yt.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\yt.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mapp_ic_celular_app.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\mapp_ic_celular_app.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ponteiro.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\ponteiro.png"
+    },
+    {
+        "merged": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fundo5.png",
+        "source": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\drawable-hdpi\\fundo5.png"
+    }
+]

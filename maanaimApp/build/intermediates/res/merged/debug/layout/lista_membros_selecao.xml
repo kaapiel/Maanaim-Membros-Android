@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <!-- Lista com imagem à esquerda -->
+
+    <LinearLayout
+        android:id="@+id/thumbnail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="32dp"
+        android:layout_marginStart="32dp">
+
+        <br.com.igreja.cellapp.adapter.FotoArredondada
+            android:id="@+id/fotoDoMembroPresenca"
+           	android:layout_width="50dip"
+		    android:layout_height="50dip"
+		    android:layout_marginBottom="8dp"
+		    android:layout_marginLeft="8dp"
+		    android:layout_marginTop="8dp"
+		    android:layout_marginRight="8dp"
+		    android:adjustViewBounds="true"
+		    android:maxHeight="70dp"
+		    android:maxWidth="70dp"
+		    android:minHeight="70dp"
+		    android:minWidth="70dp"
+		    android:background="@drawable/foto_arredondada"
+            android:contentDescription="Foto do Membro"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+
+    <!-- Nome -->
+
+    <TextView
+        android:id="@+id/nomeDoMembroTransf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:textColor="#040404"
+        android:textSize="19sp"
+        android:textStyle="normal"
+        android:typeface="normal" />
+
+    <CheckBox
+        android:id="@+id/checkBoxMembroTransf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="17dp"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:checked="false" />
+
+
+</RelativeLayout>

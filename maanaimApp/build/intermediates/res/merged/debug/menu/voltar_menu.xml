@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="br.com.TCC.cellapp.Inicio" >
+
+    <item
+        android:id="@+id/menuPrincipal"
+        android:title="Voltar ao Menu"
+        app:showAsAction="withText|ifRoom" tools:ignore="HardcodedText"/>
+    
+</menu>

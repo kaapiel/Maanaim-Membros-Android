@@ -1,0 +1,42 @@
+Applications Memory Usage (kB):
+Uptime: 15773967 Realtime: 15773967
+
+** MEMINFO in pid 11536 [br.com.igreja.cellapp] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     9895     9808        0        0    32768    20374    12393
+  Dalvik Heap     7608     7532        0        0     8121     7426      695
+ Dalvik Other      300      288        0        0                           
+        Stack      360      360        0        0                           
+       Cursor       16       16        0        0                           
+       Ashmem     1816     1652      152        0                           
+    Other dev        4        0        4        0                           
+     .so mmap    19193      248    16728        0                           
+    .jar mmap        2        0        0        0                           
+    .apk mmap      605        0      196        0                           
+    .ttf mmap       74        0       20        0                           
+    .dex mmap     5724        0     5712        0                           
+    .oat mmap     3769        0     1400        0                           
+    .art mmap     1404      948       20        0                           
+   Other mmap      638        4      596        0                           
+      Unknown     1909     1908        0        0                           
+        TOTAL    53317    22764    24828        0    40889    27800    13088
+ 
+ Objects
+               Views:      264         ViewRootImpl:        4
+         AppContexts:        6           Activities:        4
+              Assets:        6        AssetManagers:        6
+       Local Binders:       29        Proxy Binders:       23
+       Parcel memory:        4         Parcel count:       16
+    Death Recipients:        0      OpenSSL Sockets:        2
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:       62
+ 
+ 
+ Asset Allocations
+    zip:/data/app/br.com.igreja.cellapp-1/base.apk:/assets/fonts/ftl.ttf: 82K
+    zip:/data/app/br.com.igreja.cellapp-1/base.apk:/assets/fonts/ftl.ttf: 82K
+    zip:/data/app/br.com.igreja.cellapp-1/base.apk:/assets/fonts/ftl.ttf: 82K

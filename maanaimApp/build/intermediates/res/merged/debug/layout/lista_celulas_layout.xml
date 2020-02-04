@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <!-- Nome da Célula -->
+
+    <TextView
+        android:id="@+id/nomeDaCelula"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="#040404"
+        android:textSize="19sp"
+        android:textStyle="normal"
+        android:typeface="normal" />
+
+    <!-- Região da Célula -->
+
+    <TextView
+        android:id="@+id/nomeDaRegiao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="4dip"
+        android:textColor="#040404"
+        android:textSize="12sp"
+        android:textStyle="bold"/>
+
+    <!-- Data de Criação da Célula -->
+
+    <TextView
+        android:id="@+id/dataCriacao"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nomeDaCelula"
+        android:layout_marginTop="17dip"
+        android:layout_centerHorizontal="true"
+        android:textColor="#343434"
+        android:textSize="12sp"
+         />
+
+</RelativeLayout>

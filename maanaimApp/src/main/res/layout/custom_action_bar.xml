@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <Spinner
+        android:id="@+id/spinner_livros"
+        android:layout_width="119dp"
+        android:layout_height="wrap_content" >
+    </Spinner>
+
+    <Spinner
+        android:id="@+id/spinner_caps"
+        android:layout_width="65dp"
+        android:layout_height="wrap_content" >
+    </Spinner>
+
+    <ImageButton
+        android:id="@+id/botao_buscar"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:contentDescription="Descrição da imagem"
+        android:src="@drawable/mapp_ic_pesquisa_esquerda"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>

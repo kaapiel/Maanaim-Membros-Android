@@ -1,0 +1,508 @@
+[
+    {
+        "outputFile": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 97,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 427,
+                        "endColumn": 97,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 112,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 112,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 62,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 363,
+                        "endColumn": 62,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 47,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 98,
+                        "endColumn": 47,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endColumn": 51,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 51,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 39,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 47,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 47,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1490
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endLine": 13,
+                        "endColumn": 12,
+                        "endOffset": 894
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1495,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1918
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 899,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1923,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2344
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1327,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1748
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2349,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 2771
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2776,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 3196
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2180,
+                        "endLine": 37,
+                        "endColumn": 12,
+                        "endOffset": 2600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3201,
+                    "endColumn": 88,
+                    "endOffset": 3285
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2605,
+                        "endColumn": 88,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3290,
+                    "endColumn": 100,
+                    "endOffset": 3386
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 100,
+                        "endOffset": 2790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3391,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3794
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2795,
+                        "endLine": 44,
+                        "endColumn": 12,
+                        "endOffset": 3198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3799,
+                    "endLine": 59,
+                    "endColumn": 12,
+                    "endOffset": 4214
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 3203,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 3618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4219,
+                    "endLine": 61,
+                    "endColumn": 12,
+                    "endOffset": 4321
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 3623,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 3725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4326,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4450
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 3730,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4455,
+                    "endColumn": 70,
+                    "endOffset": 4521
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3859,
+                        "endColumn": 70,
+                        "endOffset": 3925
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4526,
+                    "endColumn": 82,
+                    "endOffset": 4604
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3930,
+                        "endColumn": 82,
+                        "endOffset": 4008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4609,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 8312
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4013,
+                        "endLine": 106,
+                        "endColumn": 12,
+                        "endOffset": 7716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8317,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12160
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7721,
+                        "endLine": 158,
+                        "endColumn": 12,
+                        "endOffset": 11564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12165,
+                    "endColumn": 90,
+                    "endOffset": 12251
+                },
+                "from": {
+                    "file": "C:\\Developer\\SourceTree\\Maanaim Membros\\MaanaimApp-Membros\\MaanaimMembrosApp\\maanaimApp\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.3.0\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 11569,
+                        "endColumn": 90,
+                        "endOffset": 11655
+                    }
+                }
+            }
+        ]
+    }
+]

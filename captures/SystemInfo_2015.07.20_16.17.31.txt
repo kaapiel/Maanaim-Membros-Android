@@ -1,0 +1,114 @@
+TASK br.com.igreja.cellapp id=316
+  ACTIVITY br.com.igreja.cellapp/.activities.Login 66e001d pid=10508
+    Local Activity 2bda01f4 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 724mcc3mnc pt_BR ldltr sw360dp w360dp h567dp 480dpi nrml port finger -keyb/v/h -nav/h s.45 skinPackageSeq.1}
+    FragmentManager misc state:
+      mActivity=br.com.igreja.cellapp.activities.Login@2bda01f4
+      mContainer=android.app.Activity$1@f235d1d
+      mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=111375722 (320 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{19dbab92 V.E..... R....... 0,0-1080,1776}
+        com.android.internal.widget.ActionBarOverlayLayout{35bab963 V.ED.... ........ 0,0-1080,1776 #102038c android:id/decor_content_parent}
+          android.widget.FrameLayout{a8f4960 V.E..... ........ 0,75-1080,1776 #1020002 android:id/content}
+            android.widget.ScrollView{79dae19 VFED.V.. ........ 0,0-1080,1701}
+              android.widget.RelativeLayout{984eede V.E..... ........ 0,0-1080,1701 #7f0e00d9 app:id/relativeLayout}
+                android.widget.ImageView{2c1588bf V.ED.... ........ 0,0-1080,1701 #7f0e00da app:id/imgFundoLogin}
+                android.widget.EditText{178f9b8c VFED..CL .F...... 121,720-931,838 #7f0e00db app:id/editTextUsuario}
+                android.widget.EditText{23d212d5 VFED..CL ........ 121,898-931,1016 #7f0e00dd app:id/editTextSenha}
+                android.widget.ImageView{27ed1aea V.ED.... ........ 835,720-931,816 #7f0e00de app:id/imageView2}
+                android.widget.TextView{3923f1db VFED..CL ........ 317,1550-762,1607 #7f0e00df app:id/siteLogin}
+                android.widget.Button{3260e478 VFED..C. ........ 121,1121-931,1241 #7f0e00dc app:id/BotaoLogin}
+                android.widget.CheckBox{25ae0751 VFED..C. ........ 514,1016-931,1112 #7f0e00e1 app:id/checkBoxLembrarDados}
+                android.widget.TextView{af9fbb6 V.ED.... ........ 516,1268-563,1325 #7f0e00a8 app:id/txtEventosHoje}
+                android.widget.Button{3be5d0b7 VFED..C. ........ 130,1334-922,1454 #7f0e00e2 app:id/botaoLoginVisitante}
+                android.widget.ImageView{2afbd024 V.ED.... ........ 140,144-940,498 #7f0e00e0 app:id/imageView1}
+                android.widget.ImageView{267ac78d V.ED.... ........ 835,920-931,1016 #7f0e00e3 app:id/imageView3}
+          com.android.internal.widget.ActionBarContainer{2f221d42 G.ED.... ......ID 0,0-0,0 #102038d android:id/action_bar_container}
+            com.android.internal.widget.ActionBarView{197cc153 V.E..... ......ID 0,0-0,0 #102038e android:id/action_bar}
+              android.widget.LinearLayout{3637ca90 V.....C. ......I. 0,0-0,0}
+                com.android.internal.widget.ActionBarView$HomeView{10d94f89 V.E..... ......I. 0,0-0,0}
+                  android.widget.ImageView{2fb8cb8e G.ED.... ......I. 0,0-0,0 #102003b android:id/up}
+                  android.widget.ImageView{1d881faf V.ED.... ......I. 0,0-0,0 #102002c android:id/home}
+                android.widget.LinearLayout{3cf6ffbc V.E..... ......I. 0,0-0,0}
+                  android.widget.TextView{3e7e5b45 V.ED.... ......ID 0,0-0,0 #10202c1 android:id/action_bar_title}
+                  android.widget.TextView{37fa129a G.ED.... ......I. 0,0-0,0 #10202c2 android:id/action_bar_subtitle}
+              android.widget.ActionMenuView{44107cb V.ED.... ......I. 0,0-0,0}
+            com.android.internal.widget.ActionBarContextView{32125ba8 G.E..... ......ID 0,0-0,0 #102038f android:id/action_context_bar}
+          com.android.internal.widget.ActionBarContainer{35ae66c1 G.ED.... ......ID 0,0-0,0 #1020390 android:id/split_action_bar}
+    Looper (main, tid 1) {38d6be66}
+      Message 0: { when=+169ms callback=android.widget.Editor$Blink target=android.widget.Editor$Blink }
+      Message 1: { when=+380ms callback=android.widget.Editor$Blink target=android.widget.Editor$Blink }
+      (Total messages: 2, idling=false, quitting=false)
+
+  ACTIVITY br.com.igreja.cellapp/.activities.Login 35dcf848 pid=10508
+    Local Activity 251e7a18 State:
+      mResumed=false mStopped=true mFinished=false
+      mLoadersStarted=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 724mcc3mnc pt_BR ldltr sw360dp w360dp h567dp 480dpi nrml port finger -keyb/v/h -nav/h s.45 skinPackageSeq.1}
+    FragmentManager misc state:
+      mActivity=br.com.igreja.cellapp.activities.Login@251e7a18
+      mContainer=android.app.Activity$1@a5655a7
+      mCurState=3 mStateSaved=true mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=111375722 (331 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{1b058a54 I.E..... R.....ID 0,0-1080,1776}
+        com.android.internal.widget.ActionBarOverlayLayout{279adfd V.ED.... ......ID 0,0-1080,1776 #102038c android:id/decor_content_parent}
+          android.widget.FrameLayout{2f805af2 V.E..... ......ID 0,75-1080,1776 #1020002 android:id/content}
+            android.widget.ScrollView{1e88a543 VFED.V.. ......ID 0,0-1080,1701}
+              android.widget.RelativeLayout{375af7c0 V.E..... ......ID 0,0-1080,1701 #7f0e00d9 app:id/relativeLayout}
+                android.widget.ImageView{27b82cf9 V.ED.... ......I. 0,0-1080,1701 #7f0e00da app:id/imgFundoLogin}
+                android.widget.EditText{8b5343e VFED..CL .F....ID 121,720-931,838 #7f0e00db app:id/editTextUsuario}
+                android.widget.EditText{1106529f VFED..CL ......I. 121,898-931,1016 #7f0e00dd app:id/editTextSenha}
+                android.widget.ImageView{32d7cfec V.ED.... ......I. 835,720-931,816 #7f0e00de app:id/imageView2}
+                android.widget.TextView{23c59fb5 VFED..CL ......I. 317,1550-762,1607 #7f0e00df app:id/siteLogin}
+                android.widget.Button{2ccc564a VFED..C. ......I. 121,1121-931,1241 #7f0e00dc app:id/BotaoLogin}
+                android.widget.CheckBox{1c8779bb VFED..C. ......I. 514,1016-931,1112 #7f0e00e1 app:id/checkBoxLembrarDados}
+                android.widget.TextView{e67fed8 V.ED.... ......I. 516,1268-563,1325 #7f0e00a8 app:id/txtEventosHoje}
+                android.widget.Button{4fd8231 VFED..C. ......I. 130,1334-922,1454 #7f0e00e2 app:id/botaoLoginVisitante}
+                android.widget.ImageView{818d16 V.ED.... ......I. 140,144-940,498 #7f0e00e0 app:id/imageView1}
+                android.widget.ImageView{2529f697 V.ED.... ......I. 835,920-931,1016 #7f0e00e3 app:id/imageView3}
+          com.android.internal.widget.ActionBarContainer{2bca3084 G.ED.... ......ID 0,0-0,0 #102038d android:id/action_bar_container}
+            com.android.internal.widget.ActionBarView{9f7106d V.E..... ......ID 0,0-0,0 #102038e android:id/action_bar}
+              android.widget.LinearLayout{268164a2 V.....C. ......I. 0,0-0,0}
+                com.android.internal.widget.ActionBarView$HomeView{90d6533 V.E..... ......I. 0,0-0,0}
+                  android.widget.ImageView{27fbd0f0 G.ED.... ......I. 0,0-0,0 #102003b android:id/up}
+                  android.widget.ImageView{9814669 V.ED.... ......I. 0,0-0,0 #102002c android:id/home}
+                android.widget.LinearLayout{db528ee V.E..... ......I. 0,0-0,0}
+                  android.widget.TextView{1eaf218f V.ED.... ......ID 0,0-0,0 #10202c1 android:id/action_bar_title}
+                  android.widget.TextView{30650c1c G.ED.... ......I. 0,0-0,0 #10202c2 android:id/action_bar_subtitle}
+              android.widget.ActionMenuView{1e5ee025 V.ED.... ......I. 0,0-0,0}
+            com.android.internal.widget.ActionBarContextView{184ee5fa G.E..... ......ID 0,0-0,0 #102038f android:id/action_context_bar}
+          com.android.internal.widget.ActionBarContainer{3d0647ab G.ED.... ......ID 0,0-0,0 #1020390 android:id/split_action_bar}
+    Looper (main, tid 1) {38d6be66}
+      Message 0: { when=+162ms callback=android.widget.Editor$Blink target=android.widget.Editor$Blink }
+      Message 1: { when=+373ms callback=android.widget.Editor$Blink target=android.widget.Editor$Blink }
+      (Total messages: 2, idling=false, quitting=false)

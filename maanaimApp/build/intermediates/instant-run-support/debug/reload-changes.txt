@@ -1,0 +1,5 @@
+CHANGED,C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\br\com\igreja\cellapp\mainMenu\Inicio$2$override.class
+CHANGED,C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\br\com\igreja\cellapp\util\Parametros$override.class
+CHANGED,C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\br\com\igreja\cellapp\mainMenu\Inicio$override.class
+CHANGED,C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\br\com\igreja\cellapp\mainMenu\Inicio$PlaceholderFragment$override.class
+CHANGED,C:\Developer\SourceTree\Maanaim Membros\MaanaimApp-Membros\MaanaimMembrosApp\maanaimApp\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
