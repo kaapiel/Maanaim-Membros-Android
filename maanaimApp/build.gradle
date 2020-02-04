@@ -1,15 +1,17 @@
 apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23"
+    compileSdkVersion 29
+    buildToolsVersion '28.0.3'
 
     useLibrary  'org.apache.http.legacy'
 
     defaultConfig {
         applicationId "br.com.igreja.cellapp"
-        minSdkVersion 13
-        targetSdkVersion 19
+        minSdkVersion 16
+        targetSdkVersion 29
         multiDexEnabled true
         compileOptions {
             sourceCompatibility JavaVersion.VERSION_1_8
@@ -33,10 +35,15 @@ android {
 }
 
 dependencies {
-    compile project(':facebook')
-    compile 'com.google.code.gson:gson:2.3.1'
-    compile 'com.google.android.gms:play-services-maps:8.3.0'
-    compile 'com.android.support:appcompat-v7:23.3.0'
-    compile 'javax.annotation:jsr250-api:1.0'
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'javax.annotation:jsr250-api:1.0'
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.core:core-ktx:1.1.0'
+    implementation 'com.github.asne.facebook:facebook:3.17.2'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
 }

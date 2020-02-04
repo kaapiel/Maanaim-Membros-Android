@@ -12,7 +12,6 @@
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
         android:scaleType="matrix"
-        android:src="@drawable/com_facebook_profile_picture_blank_square"
         tools:ignore="ContentDescription" />
 
 </RelativeLayout>

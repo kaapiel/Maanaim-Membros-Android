@@ -7,11 +7,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.widget.DrawerLayout;
-import android.support.v7.app.ActionBar;
-import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -22,6 +17,11 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.TextView;
+
+import androidx.appcompat.app.ActionBar;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
 
 import com.facebook.Session;
 import com.facebook.SessionState;
@@ -38,7 +38,7 @@ import br.com.igreja.cellapp.listagens.MuralEventos;
 import br.com.igreja.cellapp.util.Mensagens;
 import br.com.igreja.cellapp.util.Parametros;
 
-public class Inicio extends ActionBarActivity implements
+public class Inicio extends AppCompatActivity implements
 		NavigationDrawerFragment.NavigationDrawerCallbacks {
 
 	private int[] iconDrawables =
@@ -88,8 +88,8 @@ public class Inicio extends ActionBarActivity implements
 
 	    final Mensagens mensagens = new Mensagens(this);
 	    
-	    TextView textConexao = (TextView) findViewById(R.id.textConexao);
-		WebView wv = (WebView) findViewById(R.id.webView1);
+	    TextView textConexao = findViewById(R.id.textConexao);
+		WebView wv = findViewById(R.id.webView1);
 		WebSettings webSettings = wv.getSettings();
 		webSettings.setJavaScriptEnabled(true);
 		wv.setWebViewClient(new WebViewClient());
@@ -112,7 +112,7 @@ public class Inicio extends ActionBarActivity implements
 		mTitle = getTitle();
 
 		mNavigationDrawerFragment.setUp(R.id.navigation_drawer,
-				(DrawerLayout) findViewById(R.id.drawer_layout));
+				findViewById(R.id.drawer_layout));
 	}
 
 	@Override
