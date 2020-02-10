@@ -1,6 +1,4 @@
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/menu.png)
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/radio.png)
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/bible.png)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/banner.png)
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Android-Maanaim-Membros&metric=alert_status)](https://sonarcloud.io/dashboard?id=kaapiel_Android-Maanaim-Membros)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=kaapiel_Android-Maanaim-Membros&metric=ncloc)](https://sonarcloud.io/dashboard?id=kaapiel_Android-Maanaim-Membros)
@@ -28,9 +26,7 @@ Install the app and change credentials to access the full content!
 
 <h2 id="examples">Examples :eyes:</h2>
 
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/videos.png)
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/messages.png)
-![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/bible-version-selection.png)
+![banner](https://raw.github.com/kaapiel/Raw-content/master/Maanaim-Membros-Android/example-1.png)
 
 <br/>
 
